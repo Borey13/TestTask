@@ -1,0 +1,482 @@
+[
+    {
+        "receiver_address": "108.177.14.103:443",
+        "bytes_transferred": 928,
+        "bytes_received": 6790,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "149.154.167.151:443",
+        "bytes_transferred": 12947,
+        "bytes_received": 2392274,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 13000
+    },
+    {
+        "receiver_address": "149.154.167.151:5222",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.151:80",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.41:443",
+        "bytes_transferred": 315,
+        "bytes_received": 303,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.41:5222",
+        "bytes_transferred": 210,
+        "bytes_received": 202,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.41:80",
+        "bytes_transferred": 210,
+        "bytes_received": 202,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.50:443",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.50:5222",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.50:80",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.51:443",
+        "bytes_transferred": 459,
+        "bytes_received": 111,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.51:5222",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.167.51:80",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.175.50:443",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.175.50:5222",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.175.50:80",
+        "bytes_transferred": 0,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.175.53:443",
+        "bytes_transferred": 50499,
+        "bytes_received": 2412927,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 4000
+    },
+    {
+        "receiver_address": "149.154.175.53:5222",
+        "bytes_transferred": 210,
+        "bytes_received": 202,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "149.154.175.53:80",
+        "bytes_transferred": 210,
+        "bytes_received": 202,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "17.188.182.8:3485",
+        "bytes_transferred": 5648,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "17.248.150.108:443",
+        "bytes_transferred": 0,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "17.248.150.141:443",
+        "bytes_transferred": 1856,
+        "bytes_received": 7782,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "17.57.146.133:5223",
+        "bytes_transferred": 8352,
+        "bytes_received": 5494,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "188.114.98.128:443",
+        "bytes_transferred": 979,
+        "bytes_received": 4508,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "192.168.137.1:53",
+        "bytes_transferred": 3888,
+        "bytes_received": 4368,
+        "start_time": 1657267802000,
+        "end_time": 1657267804000,
+        "duration": 2000
+    },
+    {
+        "receiver_address": "192.168.137.250:55000",
+        "bytes_transferred": 37,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55002",
+        "bytes_transferred": 37,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55004",
+        "bytes_transferred": 27,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55006",
+        "bytes_transferred": 41,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55010",
+        "bytes_transferred": 43,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55011",
+        "bytes_transferred": 62,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55012",
+        "bytes_transferred": 43,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55017",
+        "bytes_transferred": 36,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55018",
+        "bytes_transferred": 42,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55019",
+        "bytes_transferred": 36,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55021",
+        "bytes_transferred": 32,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55023",
+        "bytes_transferred": 60,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55024",
+        "bytes_transferred": 32,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55034",
+        "bytes_transferred": 44,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55036",
+        "bytes_transferred": 44,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55037",
+        "bytes_transferred": 32,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55039",
+        "bytes_transferred": 32,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55047",
+        "bytes_transferred": 32,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55050",
+        "bytes_transferred": 35,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55052",
+        "bytes_transferred": 12225,
+        "bytes_received": 0,
+        "start_time": 1657267804000,
+        "end_time": 1657267804000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55055",
+        "bytes_transferred": 35,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55056",
+        "bytes_transferred": 6140,
+        "bytes_received": 0,
+        "start_time": 1657267804000,
+        "end_time": 1657267804000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55057",
+        "bytes_transferred": 8596,
+        "bytes_received": 0,
+        "start_time": 1657267804000,
+        "end_time": 1657267804000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "192.168.137.250:55058",
+        "bytes_transferred": 36,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "31.13.72.48:5222",
+        "bytes_transferred": 862,
+        "bytes_received": 1186,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "5.28.195.115:443",
+        "bytes_transferred": 3724,
+        "bytes_received": 14732,
+        "start_time": 1657267803000,
+        "end_time": 1657267804000,
+        "duration": 2000
+    },
+    {
+        "receiver_address": "74.125.131.188:5228",
+        "bytes_transferred": 28,
+        "bytes_received": 26,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "8.8.4.4:443",
+        "bytes_transferred": 939,
+        "bytes_received": 6561,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "8.8.8.8:53",
+        "bytes_transferred": 64,
+        "bytes_received": 0,
+        "start_time": 1657267802000,
+        "end_time": 1657267802543,
+        "duration": 0
+    },
+    {
+        "receiver_address": "88.221.132.139:443",
+        "bytes_transferred": 870,
+        "bytes_received": 6505,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 3000
+    },
+    {
+        "receiver_address": "91.105.192.100:443",
+        "bytes_transferred": 1933,
+        "bytes_received": 201623,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 1000
+    },
+    {
+        "receiver_address": "93.184.220.29:80",
+        "bytes_transferred": 742,
+        "bytes_received": 1598,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "95.161.76.100:443",
+        "bytes_transferred": 19707,
+        "bytes_received": 201303,
+        "start_time": 1657267802000,
+        "end_time": 1657267805000,
+        "duration": 6000
+    },
+    {
+        "receiver_address": "95.161.76.100:5222",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    },
+    {
+        "receiver_address": "95.161.76.100:80",
+        "bytes_transferred": 105,
+        "bytes_received": 101,
+        "start_time": 1657267802000,
+        "end_time": 1657267802000,
+        "duration": 0
+    }
+]
